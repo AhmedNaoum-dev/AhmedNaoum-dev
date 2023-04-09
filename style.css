@@ -197,9 +197,6 @@ div > span{
 }
 
 @media (max-width: 450px){
-    *{
-        margin: ;
-    }
     .back{
         display: flex;
         flex-direction: column;
