@@ -90,6 +90,10 @@ div.circle{
     border-radius: 50%;
 }
 
+button:hover{
+    background-color:hsla(224, 30%, 27%, 0.881) ;
+}
+
 div.ul{
     display: flex;
     padding: 10px;
@@ -125,18 +129,21 @@ div.li1{
 div.li2{
     display: flex;
     justify-content: space-between;
+    margin-left: 3px;
     width: 200px;
     color: hsl(39, 100%, 56%);
 }
 div.li3{
     display: flex;
     justify-content: space-between;
+    margin-left: 3px;
     width: 200px;
     color: hsl(166, 100%, 37%);
 }
 div.li4{
     display: flex;
     justify-content: space-between;
+    margin-left: 3px;
     width: 200px;
     color: hsl(234, 85%, 45%);
 }
